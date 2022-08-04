@@ -1,0 +1,355 @@
+id,name,primary_contact,sales_rep_id,region_id
+1691.0,Johnson Controls,Cammy Sosnowski,321500.0,1.0
+1661.0,American Airlines Group,Sasha Haughey,321500.0,1.0
+1631.0,Ingram Micro,Chanelle Keach,321500.0,1.0
+1421.0,Freddie Mac,Elayne Grunewald,321500.0,1.0
+1211.0,Express Scripts Holding,Jewell Likes,321500.0,1.0
+1001.0,Walmart,Tamara Tuma,321500.0,1.0
+1701.0,Best Buy,Laurette Sakai,321510.0,1.0
+1671.0,Delta Air Lines,,321510.0,1.0
+1641.0,Energy Transfer Equity,Wynell Lepore,321510.0,1.0
+1431.0,PepsiCo,Cathleen Delamater,321510.0,1.0
+1221.0,J.P. Morgan Chase,Florentino Madrigal,321510.0,1.0
+1011.0,Exxon Mobil,Sung Shields,321510.0,1.0
+1971.0,Tesoro,Mammie Koff,321520.0,1.0
+1711.0,Merck,Willodean Steinberger,321520.0,1.0
+1681.0,Nationwide,Henriette Dawes,321520.0,1.0
+1651.0,Tyson Foods,Ardelle Khoury,321520.0,1.0
+1441.0,United Technologies,Janett Wisecarver,321520.0,1.0
+1231.0,Boeing,Melva Lyall,321520.0,1.0
+1021.0,Apple,Jodee Lupo,321520.0,1.0
+1981.0,Time Warner,Lakeisha Kridler,321530.0,1.0
+1451.0,Aetna,Noah Melugin,321530.0,1.0
+1241.0,Microsoft,Dennise Hungate,321530.0,1.0
+1031.0,Berkshire Hathaway,Serafina Banda,321530.0,1.0
+1991.0,Northwestern Mutual,Cori Byerley,321540.0,1.0
+1461.0,Lowe's,Roselee Pardini,321540.0,1.0
+1251.0,Bank of America Corp.,Janise Voth,321540.0,1.0
+1041.0,McKesson,Angeles Crusoe,321540.0,1.0
+2001.0,DuPont,Lucile Pasek,321550.0,1.0
+1471.0,UPS,Cedrick Weiss,321550.0,1.0
+1261.0,Wells Fargo,Lakenya Volker,321550.0,1.0
+1051.0,UnitedHealth Group,Savanna Gayman,321550.0,1.0
+1961.0,Deere,Aura Walz,321560.0,1.0
+1951.0,Twenty-First Century Fox,,321560.0,1.0
+1941.0,Exelon,Leana Godines,321560.0,1.0
+1481.0,AIG,Aja Sandusky,321560.0,1.0
+1271.0,Home Depot,Alexandria Zielke,321560.0,1.0
+1061.0,CVS Health,Anabel Haskell,321560.0,1.0
+1491.0,Prudential Financial,Lyda Lamarr,321570.0,1.0
+1281.0,Citigroup,Bea Sera,321570.0,1.0
+1071.0,General Motors,Barrie Omeara,321570.0,1.0
+1921.0,3M,Orville Leavell,321580.0,1.0
+1901.0,Nike,Adam Ptacek,321580.0,1.0
+1881.0,TJX,Sheryl Diamond,321580.0,1.0
+1501.0,Intel,,321580.0,1.0
+1291.0,Phillips 66,Maria Garibay,321580.0,1.0
+1081.0,Ford Motor,Kym Hagerman,321580.0,1.0
+1931.0,Mondelez International,Vanetta Lerch,321590.0,1.0
+1911.0,World Fuel Services,Kasandra Correa,321590.0,1.0
+1891.0,ConocoPhillips,Lisa Rayborn,321590.0,1.0
+1511.0,Humana,Bettye Close,321590.0,1.0
+1301.0,IBM,Denis Gros,321590.0,1.0
+1091.0,AT&T,Jamel Mosqueda,321590.0,1.0
+1521.0,Disney,Timika Mistretta,321600.0,1.0
+1311.0,Valero Energy,Taylor Capone,321600.0,1.0
+1101.0,General Electric,Parker Hoggan,321600.0,1.0
+1531.0,Cisco Systems,Deadra Waggener,321610.0,1.0
+1321.0,Anthem,Hanh Oram,321610.0,1.0
+1111.0,AmerisourceBergen,Tuan Trainer,321610.0,1.0
+1541.0,Pfizer,Olevia Taubman,321620.0,1.0
+1331.0,Procter & Gamble,Cordia Winters,321620.0,1.0
+1121.0,Verizon,Chantell Drescher,321620.0,1.0
+1861.0,Publix Super Markets,Cherri Sienkiewicz,321630.0,1.0
+1841.0,American Express,Horacio Weidman,321630.0,1.0
+1821.0,INTL FCStone,Ericka Hamid,321630.0,1.0
+1801.0,Allstate,Latesha Garcia,321630.0,1.0
+1781.0,Cigna,Kandi Mailloux,321630.0,1.0
+1551.0,Dow Chemical,Lillia Ogden,321630.0,1.0
+1341.0,State Farm Insurance Cos.,Dionne Hensel,321630.0,1.0
+1131.0,Chevron,Paige Bartos,321630.0,1.0
+1871.0,General Dynamics,Erin Viverette,321640.0,1.0
+1851.0,Gilead Sciences,Nickie Moulden,321640.0,1.0
+1831.0,CHS,Sheilah Truss,321640.0,1.0
+1811.0,TIAA,Deeanna Burpo,321640.0,1.0
+1791.0,United Continental Holdings,Diedra Crossman,321640.0,1.0
+1561.0,Sysco,Julia Laracuente,321640.0,1.0
+1351.0,Alphabet,Pamula Hammel,321640.0,1.0
+1141.0,Costco,Dominique Favela,321640.0,1.0
+1571.0,FedEx,Keren Mcconn,321650.0,1.0
+1361.0,Comcast,Shana Sanborn,321650.0,1.0
+1151.0,Fannie Mae,Terrilyn Kesler,321650.0,1.0
+1581.0,Caterpillar,Latia Beene,321660.0,1.0
+1371.0,Target,Luba Streett,321660.0,1.0
+1161.0,Kroger,Nannie Brinkman,321660.0,1.0
+1591.0,Lockheed Martin,Jared Aikins,321670.0,1.0
+1381.0,Johnson & Johnson,Genevieve Fenton,321670.0,1.0
+1171.0,Amazon.com,Buffy Azure,321670.0,1.0
+2041.0,Travelers Cos.,Vernie Pound,321680.0,1.0
+2011.0,Avnet,Tamica Laborde,321680.0,1.0
+1751.0,Massachusetts Mutual Life Insurance,Cassey Hewey,321680.0,1.0
+1721.0,Liberty Mutual Insurance Group,Maranda Papas,321680.0,1.0
+1601.0,New York Life Insurance,Arlyne Mauzy,321680.0,1.0
+1391.0,MetLife,Faustino Henshaw,321680.0,1.0
+1181.0,Walgreens Boots Alliance,Esta Engelhardt,321680.0,1.0
+2051.0,Philip Morris International,Angla Ingrassia,321690.0,1.0
+2021.0,Macy's,Teresita Ashalintubbi,321690.0,1.0
+1761.0,Oracle,Antonia Parkhurst,321690.0,1.0
+1731.0,Goldman Sachs Group,Loris Manfredi,321690.0,1.0
+1611.0,Coca-Cola,Tisha Coletti,321690.0,1.0
+1401.0,Archer Daniels Midland,Fay Rogowski,321690.0,1.0
+1191.0,HP,Khadijah Riemann,321690.0,1.0
+2031.0,Enterprise Products Partners,Marina Catoe,321700.0,1.0
+1771.0,Morgan Stanley,Elvia Snipes,321700.0,1.0
+1741.0,Honeywell International,Jeanne Harty,321700.0,1.0
+1621.0,HCA Holdings,Hubert Blanch,321700.0,1.0
+1411.0,Marathon Petroleum,Emmitt Mcnab,321700.0,1.0
+1201.0,Cardinal Health,Deanne Hertlein,321700.0,1.0
+2361.0,Progressive,Catrice Klingbeil,321710.0,2.0
+2301.0,U.S. Bancorp,Roberto Calender,321710.0,2.0
+2241.0,Community Health Systems,Grazyna Dewald,321710.0,2.0
+2151.0,Time Warner Cable,,321710.0,2.0
+2061.0,Rite Aid,Celsa Hamsher,321710.0,2.0
+2371.0,Abbott Laboratories,Seymour Olmedo,321720.0,2.0
+2311.0,Staples,Mallory Gosselin,321720.0,2.0
+2251.0,Alcoa,Minna Dehner,321720.0,2.0
+2161.0,Halliburton,Domonique Pillow,321720.0,2.0
+2071.0,Tech Data,Brendan Anzalone,321720.0,2.0
+2381.0,Dollar General,Janyce Quarles,321730.0,2.0
+2321.0,Danaher,Tressie Halcomb,321730.0,2.0
+2261.0,International Paper,Nicolasa Housel,321730.0,2.0
+2171.0,Northrop Grumman,Nannette Costa,321730.0,2.0
+2081.0,McDonald's,Alisa Rega,321730.0,2.0
+2481.0,Altria Group,Juliet Nugent,321740.0,2.0
+2451.0,Starbucks,David Trousdale,321740.0,2.0
+2391.0,Tenet Healthcare,Eufemia Spady,321740.0,2.0
+2331.0,Whirlpool,Isreal Shreffler,321740.0,2.0
+2271.0,Emerson Electric,Jere Storey,321740.0,2.0
+2181.0,Arrow Electronics,Craig Mcalpine,321740.0,2.0
+2091.0,Qualcomm,Torri Northrop,321740.0,2.0
+2491.0,Xerox,Ivory Crockett,321750.0,2.0
+2461.0,Paccar,Love Quirion,321750.0,2.0
+2401.0,Eli Lilly,Dee Daulton,321750.0,2.0
+2341.0,Aflac,Kellee Suniga,321750.0,2.0
+2281.0,Union Pacific,Genesis Schroer,321750.0,2.0
+2191.0,Raytheon,Yun Kleeman,321750.0,2.0
+2101.0,Sears Holdings,Hsiu Benedetti,321750.0,2.0
+2511.0,Hartford Financial Services Group,Yukiko Nails,321760.0,2.0
+2501.0,Kimberly-Clark,Garfield Levenson,321760.0,2.0
+2471.0,Cummins,Lavonda Geier,321760.0,2.0
+2411.0,Southwest Airlines,Idalia Agosta,321760.0,2.0
+2351.0,AutoNation,Jay Gauger,321760.0,2.0
+2291.0,Amgen,Nigel Mincks,321760.0,2.0
+2201.0,Plains GP Holdings,Ethan Penaloza,321760.0,2.0
+2111.0,Capital One Financial,Debby Myers,321760.0,2.0
+2521.0,Kraft Heinz,Willard Crenshaw,321770.0,2.0
+2421.0,Penske Automotive Group,Gregorio Schank,321770.0,2.0
+2211.0,US Foods Holding,Porter Shrout,321770.0,2.0
+2121.0,EMC,Maurice Matsuda,321770.0,2.0
+2531.0,Lear,Bernadine Stahly,321780.0,2.0
+2431.0,ManpowerGroup,Vivien Gavin,321780.0,2.0
+2221.0,AbbVie,Agnus Jenkin,321780.0,2.0
+2131.0,USAA,,321780.0,2.0
+2441.0,Kohl's,Rico Rison,321790.0,2.0
+2231.0,Centene,Shanika Mariani,321790.0,2.0
+2141.0,Duke Energy,,321790.0,2.0
+3481.0,First Data,Theodore Staten,321800.0,3.0
+3471.0,ADP,September Jacquet,321800.0,3.0
+3451.0,Edison International,Tamekia Isherwood,321800.0,3.0
+3431.0,United States Steel,Josh Deslauriers,321800.0,3.0
+3141.0,Land O'Lakes,Ana Blount,321800.0,3.0
+3041.0,Lincoln National,Stewart Mcnitt,321800.0,3.0
+2941.0,Marriott International,Chassidy Backhaus,321800.0,3.0
+2841.0,Performance Food Group,Natividad Pauli,321800.0,3.0
+2741.0,Freeport-McMoRan,Neomi Nishida,321800.0,3.0
+2641.0,American Electric Power,Vi Skeeter,321800.0,3.0
+2541.0,Fluor,Chas Nagler,321800.0,3.0
+3491.0,BlackRock,Nam Rothfuss,321810.0,3.0
+3461.0,Entergy,Kayleen Orlowski,321810.0,3.0
+3441.0,L-3 Communications,Francine Sealey,321810.0,3.0
+3151.0,Devon Energy,Kelli Seese,321810.0,3.0
+3051.0,Ecolab,Donnie Ehrhardt,321810.0,3.0
+2951.0,Office Depot,Daisey Wyss,321810.0,3.0
+2851.0,Omnicom Group,Yasuko Heffernan,321810.0,3.0
+2751.0,ConAgra Foods,Mireille Worthley,321810.0,3.0
+2651.0,PG&E Corp.,Whitney Koga,321810.0,3.0
+2551.0,AECOM,Della Arceo,321810.0,3.0
+3391.0,Toys R Us,Eugena Jerman,321820.0,3.0
+3341.0,Jacobs Engineering Group,Lurlene Wojtowicz,321820.0,3.0
+3291.0,Cognizant Technology Solutions,Twanda Renninger,321820.0,3.0
+3241.0,Occidental Petroleum,Chin Coppola,321820.0,3.0
+3161.0,PBF Energy,Lavonda Hoyle,321820.0,3.0
+3061.0,Kellogg,Domonique Cave,321820.0,3.0
+2961.0,Nordstrom,Yan Crater,321820.0,3.0
+2861.0,DISH Network,Leana Hawker,321820.0,3.0
+2761.0,Gap,Caprice Hohler,321820.0,3.0
+2661.0,NGL Energy Partners,Staci Alegria,321820.0,3.0
+2561.0,Facebook,Jesus Philippi,321820.0,3.0
+3401.0,Las Vegas Sands,Susy Jantzen,321830.0,3.0
+3351.0,Principal Financial,Eddie Mcgaughey,321830.0,3.0
+3301.0,VF,Nell Younts,321830.0,3.0
+3251.0,Guardian Life Ins. Co. of America,Trisha Tigner,321830.0,3.0
+3171.0,Yum Brands,Martin Mcgough,321830.0,3.0
+3071.0,C.H. Robinson Worldwide,Crissy Cottle,321830.0,3.0
+2971.0,Kinder Morgan,Chantal Laureano,321830.0,3.0
+2871.0,FirstEnergy,Catherine Bermejo,321830.0,3.0
+2771.0,Baker Hughes,Richelle Borger,321830.0,3.0
+2671.0,Bristol-Myers Squibb,Alejandro Taunton,321830.0,3.0
+2571.0,Jabil Circuit,Claudette Katzman,321830.0,3.0
+3411.0,Leucadia National,Merrill Rubino,321840.0,3.0
+3361.0,Ross Stores,Latosha Hollar,321840.0,3.0
+3311.0,Ameriprise Financial,Melody Neuner,321840.0,3.0
+3261.0,Farmers Insurance Exchange,Eloisa Lafuente,321840.0,3.0
+3181.0,Texas Instruments,Adell Lever,321840.0,3.0
+3081.0,Textron,Myrtice Maxon,321840.0,3.0
+2981.0,Aramark,Chelsey Marasco,321840.0,3.0
+2881.0,Monsanto,Loren Schlanger,321840.0,3.0
+2781.0,Bank of New York Mellon Corp.,Harrison Foss,321840.0,3.0
+2681.0,Goodyear Tire & Rubber,Jodee Indelicato,321840.0,3.0
+2581.0,CenturyLink,Christoper Mcghie,321840.0,3.0
+3421.0,Dominion Resources,Mickey Eversole,321850.0,3.0
+3371.0,Bed Bath & Beyond,Audria Witter,321850.0,3.0
+3321.0,Computer Sciences,Lincoln Damewood,321850.0,3.0
+3271.0,J.C. Penney,Ladonna Kouba,321850.0,3.0
+3191.0,CDW,Jenny Poland,321850.0,3.0
+3091.0,Loews,Melda Ensey,321850.0,3.0
+2991.0,DaVita HealthCare Partners,Ursula Sarinana,321850.0,3.0
+2891.0,AES,Maybell Bascombe,321850.0,3.0
+2791.0,Dollar Tree,Georgiana Coniglio,321850.0,3.0
+2691.0,Nucor,Maryalice Giltner,321850.0,3.0
+2591.0,Supervalu,Kristopher Moton,321850.0,3.0
+3381.0,CSX,Shirely Cantara,321860.0,3.0
+3331.0,L Brands,Lisabeth Aitken,321860.0,3.0
+3281.0,Consolidated Edison,Tamiko Calhoon,321860.0,3.0
+3201.0,Waste Management,Kip Stringham,321860.0,3.0
+3101.0,Illinois Tool Works,Rosena Jessop,321860.0,3.0
+3001.0,Molina Healthcare,Hilde Klopfer,321860.0,3.0
+2901.0,CarMax,Bobbi Rackers,321860.0,3.0
+2801.0,Whole Foods Market,Chauncey Koss,321860.0,3.0
+2701.0,PNC Financial Services Group,Lashaun Lightfoot,321860.0,3.0
+2601.0,General Mills,Natasha Kopczynski,321860.0,3.0
+3211.0,Marsh & McLennan,Shantae Leone,321870.0,3.0
+3111.0,Synnex,Corey Tobia,321870.0,3.0
+3011.0,WellCare Health Plans,Tobi Whiteaker,321870.0,3.0
+2911.0,National Oilwell Varco,Brianne Hunger,321870.0,3.0
+2811.0,PPG Industries,Domonique Harvell,321870.0,3.0
+2711.0,Health Net,Sabra Bellis,321870.0,3.0
+2611.0,Southern,,321870.0,3.0
+3221.0,Chesapeake Energy,Teddy Braddock,321880.0,3.0
+3121.0,Viacom,Chadwick Fortenberry,321880.0,3.0
+3021.0,CBS,Huong Fortino,321880.0,3.0
+2921.0,NRG Energy,Stephanie Balfour,321880.0,3.0
+2821.0,Genuine Parts,Vanetta Castleman,321880.0,3.0
+2721.0,Micron Technology,Kimiko Brasfield,321880.0,3.0
+2621.0,NextEra Energy,Jule Alberti,321880.0,3.0
+3231.0,Parker-Hannifin,Jon Esteban,321890.0,3.0
+3131.0,HollyFrontier,Maricela Humphries,321890.0,3.0
+3031.0,Visa,Madlyn Brothers,321890.0,3.0
+2931.0,Western Digital,,321890.0,3.0
+2831.0,Icahn Enterprises,Lindsay Malbon,321890.0,3.0
+2731.0,Colgate-Palmolive,Barton Hyatt,321890.0,3.0
+2631.0,Thermo Fisher Scientific,Venessa Moreles,321890.0,3.0
+4101.0,Fidelity National Financial,Tegan Metzgar,321900.0,4.0
+4001.0,Lennar,Sherell Yankey,321900.0,4.0
+3901.0,Owens & Minor,Emogene Howarth,321900.0,4.0
+3801.0,Navistar International,Mauricio Croce,321900.0,4.0
+3701.0,Reinsurance Group of America,Isaac Demery,321900.0,4.0
+3601.0,Estee Lauder,Grover Chamblee,321900.0,4.0
+3501.0,WestRock,Isobel Mcdaniel,321900.0,4.0
+4371.0,Mohawk Industries,Kym Hagerman,321910.0,4.0
+4351.0,Dean Foods,Anabel Haskell,321910.0,4.0
+4331.0,Tenneco,Angeles Crusoe,321910.0,4.0
+4111.0,Republic Services,Gail Widmer,321910.0,4.0
+4011.0,GameStop,Sage Battiste,321910.0,4.0
+3911.0,Charter Communications,Natacha Rita,321910.0,4.0
+3811.0,Precision Castparts,Louis Whitted,321910.0,4.0
+3711.0,Public Service Enterprise Group,,321910.0,4.0
+3611.0,Praxair,Lelah Lamothe,321910.0,4.0
+3511.0,Voya Financial,Susana Dixion,321910.0,4.0
+4361.0,Campbell Soup,Barrie Omega,321920.0,4.0
+4341.0,United Natural Foods,Savanna Gayman,321920.0,4.0
+4121.0,Corning,Chad Winer,321920.0,4.0
+4021.0,Reliance Steel & Aluminum,Terrance Kimzey,321920.0,4.0
+3921.0,Advance Auto Parts,Maxwell Vandergriff,321920.0,4.0
+3821.0,Discover Financial Services,Lauryn Hogge,321920.0,4.0
+3721.0,BB&T Corp.,Scot Feagin,321920.0,4.0
+3621.0,Biogen,Annalisa Butt,321920.0,4.0
+3521.0,Sherwin-Williams,Cinderella Chaves,321920.0,4.0
+4531.0,Under Armour,Jodee Rover,321930.0,4.0
+4311.0,American Family Insurance Group,Jodee Lupo,321930.0,4.0
+4281.0,SunTrust Banks,Monserrate Winsett,321930.0,4.0
+4201.0,Crown Holdings,Jung Soden,321930.0,4.0
+4131.0,Peter Kiewit Sons,Haley Klos,321930.0,4.0
+4031.0,Hormel Foods,Keturah Cuadrado,321930.0,4.0
+3931.0,MasterCard,Lea Quillen,321930.0,4.0
+3831.0,Liberty Interactive,Melissa Hacker,321930.0,4.0
+3731.0,DTE Energy,Nita Mingle,321930.0,4.0
+3631.0,State Street Corp.,Viva Jarrells,321930.0,4.0
+3531.0,Hilton Worldwide Holdings,Rema Skipworth,321930.0,4.0
+4511.0,Thor Industries,Tamara Brody,321940.0,4.0
+4321.0,Level 3 Communications,Serafina Banda,321940.0,4.0
+4291.0,Avis Budget Group,Tamara Tuma,321940.0,4.0
+4211.0,EOG Resources,Alida Desrosier,321940.0,4.0
+4141.0,Univar,Sterling Tarlton,321940.0,4.0
+4041.0,Celgene,Carisa Tinajero,321940.0,4.0
+3941.0,Applied Materials,Myung Gomes,321940.0,4.0
+3841.0,W.W. Grainger,Marina Summitt,321940.0,4.0
+3741.0,Assurant,Candi Vanleer,321940.0,4.0
+3641.0,Unum Group,Spring Hedstrom,321940.0,4.0
+3541.0,R.R. Donnelley & Sons,Vania Warthen,321940.0,4.0
+4521.0,"Advanced Micro Devices ",Sally Shields,321950.0,4.0
+4301.0,Broadcom,Sung Shields,321950.0,4.0
+4221.0,Veritiv,Karren Dively,321950.0,4.0
+4151.0,Mosaic,Lorette Blasi,321950.0,4.0
+4051.0,Genworth Financial,Tangela Vahle,321950.0,4.0
+3951.0,Eastman Chemical,Mistie Martines,321950.0,4.0
+3851.0,Baxter International,Darren Villafana,321950.0,4.0
+3751.0,Global Partners,Jordan Fils,321950.0,4.0
+3651.0,Reynolds American,Adelia Weston,321950.0,4.0
+3551.0,Stanley Black & Decker,Davida Woldt,321950.0,4.0
+4491.0,PPL,Deanne Hertlein,321960.0,4.0
+4471.0,Oneok,Esta Engelhardt,321960.0,4.0
+4451.0,Lithia Motors,Nannie Brinkman,321960.0,4.0
+4261.0,News Corp.,Sharie Sanborn,321960.0,4.0
+4161.0,Core-Mark Holding,Marita Demasi,321960.0,4.0
+4061.0,PayPal Holdings,Birgit Lacasse,321960.0,4.0
+3961.0,Sonic Automotive,Keena Caffrey,321960.0,4.0
+3861.0,Stryker,Marivel Keeley,321960.0,4.0
+3761.0,Huntsman,Elmo Burstein,321960.0,4.0
+3661.0,Group 1 Automotive,Devona Denison,321960.0,4.0
+3561.0,Xcel Energy,Annetta Claytor,321960.0,4.0
+4501.0,SpartanNash,Jewell Likes,321970.0,4.0
+4481.0,Newmont Mining,Khadijah Riemann,321970.0,4.0
+4461.0,KKR,Buffy Azure,321970.0,4.0
+4431.0,Franklin Resources,Dominique Favela,321970.0,4.0
+4411.0,OReilly Automotive,Chantell Drescher,321970.0,4.0
+4381.0,BorgWarner,Jamel Mosqueda,321970.0,4.0
+4271.0,Jarden,Chantal Dahmen,321970.0,4.0
+4231.0,Anadarko Petroleum,Lacey Kight,321970.0,4.0
+4171.0,Thrivent Financial for Lutherans,Janyce Mun,321970.0,4.0
+4071.0,Priceline Group,Dominick Yearwood,321970.0,4.0
+3971.0,Ally Financial,Elodia Olague,321970.0,4.0
+3871.0,Air Products & Chemicals,Delphia Jamerson,321970.0,4.0
+3771.0,Becton Dickinson,Dagmar Pangle,321970.0,4.0
+3671.0,Henry Schein,Forrest Brodeur,321970.0,4.0
+3571.0,Murphy USA,Tyree Folden,321970.0,4.0
+4441.0,Masco,Terrilyn Kesler,321980.0,4.0
+4421.0,Eversource Energy,Paige Bartos,321980.0,4.0
+4391.0,PVH,Parker Hoggan,321980.0,4.0
+4241.0,Laboratory Corp. of America,Domenic Mally,321980.0,4.0
+4181.0,Cameron International,Antwan Seagraves,321980.0,4.0
+4081.0,MGM Resorts International,Glennis Vann,321980.0,4.0
+3981.0,CST Brands,Shasta Rodas,321980.0,4.0
+3881.0,Western Refining,Delora Musson,321980.0,4.0
+3781.0,Sempra Energy,Isidra Thieme,321980.0,4.0
+3681.0,Hertz Global Holdings,Caitlyn Claycomb,321980.0,4.0
+3581.0,CBRE Group,Martina Haas,321980.0,4.0
+4401.0,Ball,Tuan Trainer,321990.0,4.0
+4251.0,Pacific Life,Kyoko Randall,321990.0,4.0
+4191.0,HD Supply Holdings,Stephnie Mccrum,321990.0,4.0
+4091.0,Autoliv,Nia Waldeck,321990.0,4.0
+3991.0,eBay,Monet Maclaren,321990.0,4.0
+3891.0,Universal Health Services,Tasha Delillo,321990.0,4.0
+3791.0,AutoZone,Maryellen Strohmeyer,321990.0,4.0
+3691.0,Norfolk Southern,Leia Vargas,321990.0,4.0
+3591.0,D.R. Horton,Rhoda Holtsclaw,321990.0,4.0
